@@ -33,7 +33,7 @@ const reactionSchema = new Schema(
 
 const ThoughtSchema = new Schema(
     {
-        toughtText: {
+        thoughtText: {
             type: String,
             required: true,
             minlength: 1,
