@@ -9,7 +9,7 @@
 [ContactMe](#contactme)    
 
 ## Description
-With this project a user can quickly and easily use CRUD methods for `Users`, their `Thoughts`, and `Reactions` to those thoughts. 
+With this project a user can quickly and easily use CRUD methods for `Users`, their `Thoughts`, and `Reactions` to those thoughts with the use of MongoDB (NoSQL) 
 
 
 ## Installation  
