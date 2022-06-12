@@ -62,7 +62,7 @@ const ThoughtSchema = new Schema(
 
 
 
-
+// get total count of recations on retrieval
 ThoughtSchema.virtual('reactionCount').get(function() {
     return this.reactions.length;
 });
